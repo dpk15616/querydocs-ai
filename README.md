@@ -1,5 +1,8 @@
 # QueryDocs AI – Context-Aware Document QA using RAG
 
+<img width="1423" height="935" alt="Screenshot 2026-05-01 at 2 43 58 AM" src="https://github.com/user-attachments/assets/17456ea5-1c00-45b3-a27f-518fb10d98b2" />
+
+
 ## Overview
 QueryDocs AI is a Retrieval-Augmented Generation (RAG) system that allows users to upload documents and query them using natural language. It combines semantic retrieval with LLM-based response generation to provide accurate, context-aware answers.
 
